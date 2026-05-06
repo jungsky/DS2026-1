@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gungs\\Desktop\\\uC790\uB8CC\uAD6C\uC870\\DS2026-1\\ch7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E1245330-96D9-4ECF-979C-7043FF71A5BD}|ch7_2\\ch7_2.vcxproj|C:\\Users\\gungs\\Desktop\\\uC790\uB8CC\uAD6C\uC870\\DS2026-1\\ch7\\ch7_2\\ch7_2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E1245330-96D9-4ECF-979C-7043FF71A5BD}|ch7_2\\ch7_2.vcxproj|solutionrelative:ch7_2\\ch7_2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1245330-96D9-4ECF-979C-7043FF71A5BD}|ch7_2\\ch7_2.vcxproj|C:\\Users\\gungs\\Desktop\\\uC790\uB8CC\uAD6C\uC870\\DS2026-1\\ch7\\ch7_2\\folderSize.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E1245330-96D9-4ECF-979C-7043FF71A5BD}|ch7_2\\ch7_2.vcxproj|solutionrelative:ch7_2\\folderSize.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "folderSize.c",
+              "DocumentMoniker": "C:\\Users\\gungs\\Desktop\\\uC790\uB8CC\uAD6C\uC870\\DS2026-1\\ch7\\ch7_2\\folderSize.c",
+              "RelativeDocumentMoniker": "ch7_2\\folderSize.c",
+              "ToolTip": "C:\\Users\\gungs\\Desktop\\\uC790\uB8CC\uAD6C\uC870\\DS2026-1\\ch7\\ch7_2\\folderSize.c",
+              "RelativeToolTip": "ch7_2\\folderSize.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-05-06T08:13:32.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ch7_2.c",
+              "DocumentMoniker": "C:\\Users\\gungs\\Desktop\\\uC790\uB8CC\uAD6C\uC870\\DS2026-1\\ch7\\ch7_2\\ch7_2.c",
+              "RelativeDocumentMoniker": "ch7_2\\ch7_2.c",
+              "ToolTip": "C:\\Users\\gungs\\Desktop\\\uC790\uB8CC\uAD6C\uC870\\DS2026-1\\ch7\\ch7_2\\ch7_2.c",
+              "RelativeToolTip": "ch7_2\\ch7_2.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-05-06T08:04:40.781Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
